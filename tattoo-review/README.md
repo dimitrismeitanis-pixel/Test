@@ -1,7 +1,21 @@
 # Reconstruction check: Hanuman and mythical lion forearm tattoo
 
 This compares ChatGPT's flat line-art reconstruction with the five photos of the real tattoo.
-The marked-up visual comparison is in [`fix-sheet.png`](fix-sheet.png).
+
+| File | What it is |
+|---|---|
+| [`fix-sheet.png`](fix-sheet.png) | Side-by-side comparison of ChatGPT's drawing and the real tattoo, with each error marked |
+| [`mockup-for-artist.png`](mockup-for-artist.png) | **Give this to the tattoo artist.** The corrected layout mock-up with numbered notes and reference photos |
+| [`mockup-layout.png`](mockup-layout.png) | The same mock-up without notes |
+
+## About the mock-up
+The mock-up is a cut-and-paste edit of ChatGPT's drawing, not a new drawing. Two of the four problems are fixed in it:
+- **Fixed:** the dagger is now long and nearly vertical.
+- **Fixed:** the back leg now comes out from behind Hanuman's hip to the right of the dagger, with black clouds behind it.
+- **Not fixed (the artist redraws these):** the dark patch at the bottom centre is a placeholder where the old leg used to be;
+  the real tattoo has open swirl clouds there. The heavy AI line style is also still there.
+
+Use it to show the artist the placement. The photos of the real tattoo should guide the detail and the line style.
 
 **Verdict:** the overall layout is close and most elements are right. Four things are wrong,
 and two of them (the dagger and the back leg) change how the design reads on the arm.
@@ -11,7 +25,7 @@ and two of them (the dagger and the back leg) change how the design reads on the
 ### 1. Dagger: wrong angle and too short
 - **Real tattoo:** the dagger in Hanuman's lower hand hangs almost straight down along the forearm, with a slight lean to the right.
   The blade is long: it runs past the sash and well into the swirl clouds below. The pointed, leaf-shaped pommel sits above the fist.
-- **ChatGPT:** the blade is tilted about 30° and stops much higher.
+- **ChatGPT:** the blade is tilted about 25° and stops much higher.
 
 ### 2. The creature's back leg is on the wrong side
 - **Real tattoo:** the back leg comes out from behind Hanuman's hip, to the **right of the dagger**. It curves out toward
@@ -52,7 +66,7 @@ Edit the attached line-art reconstruction so it matches the real tattoo in the a
 Keep the overall composition, the characters and everything that is already correct. Only change these things:
 
 1. DAGGER: Hanuman's lower hand holds the dagger with the blade pointing almost straight down
-   (a slight lean to the right, not a 30-degree diagonal). Make the blade much longer, so it runs
+   (a slight lean to the right, not a 25-degree diagonal). Make the blade much longer, so it runs
    past the sash and deep into the swirl clouds below. Keep the pointed leaf-shaped pommel above the fist.
 
 2. BACK LEG: move the creature's back leg to the RIGHT side of the design, to the right of the dagger.
