@@ -9,11 +9,12 @@ This compares ChatGPT's flat line-art reconstruction with the five photos of the
 | [`mockup-layout.png`](mockup-layout.png) | The same mock-up without notes |
 
 ## About the mock-up
-The mock-up is a cut-and-paste edit of ChatGPT's drawing, not a new drawing. Two of the four problems are fixed in it:
+The mock-up is a cut-and-paste edit of ChatGPT's drawing, not a new drawing. Three of the four problems are fixed in it:
 - **Fixed:** the dagger is now long and nearly vertical.
 - **Fixed:** the back leg now comes out from behind Hanuman's hip to the right of the dagger, with black clouds behind it.
-- **Not fixed (the artist redraws these):** the dark patch at the bottom centre is a placeholder where the old leg used to be;
-  the real tattoo has open swirl clouds there. The heavy AI line style is also still there.
+- **Fixed:** the space the old leg left under the sash is now stacked swirl clouds, copied from elsewhere in the drawing.
+- **Partly fixed (the artist redraws this):** the heavy outlines are thinner, but the AI's double outlines and
+  engraving hatching are still there. The real tattoo uses thin single lines and lots of open skin.
 
 Use it to show the artist the placement. The photos of the real tattoo should guide the detail and the line style.
 
