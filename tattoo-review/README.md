@@ -7,6 +7,12 @@ This compares ChatGPT's flat line-art reconstruction with the five photos of the
 | [`fix-sheet.png`](fix-sheet.png) | Side-by-side comparison of ChatGPT's drawing and the real tattoo, with each error marked |
 | [`mockup-for-artist.png`](mockup-for-artist.png) | **Give this to the tattoo artist.** The corrected layout mock-up with numbered notes and reference photos |
 | [`mockup-layout.png`](mockup-layout.png) | The same mock-up without notes |
+| [`final-mockup.png`](final-mockup.png) | The final corrected drawing on its own, with no notes |
+| [`final-mockup-on-arm-front.jpg`](final-mockup-on-arm-front.jpg) | Preview of the final drawing on a forearm, front view |
+| [`final-mockup-on-arm-3-views.jpg`](final-mockup-on-arm-3-views.jpg) | The same preview from the left side, front and right side |
+
+The arm previews are not real photos. They start from the front photo of the real tattoo: the forearm is rebuilt
+as bare skin using the photo's own lighting, and the corrected drawing is wrapped around it like a cylinder.
 
 ## About the mock-up
 The mock-up is a cut-and-paste edit of ChatGPT's drawing, not a new drawing. Three of the four problems are fixed in it:
